@@ -1,0 +1,6 @@
+name: slabglue
+version: '${version}'
+main: org.maythe15.slabglue.Slabglue
+api-version: '1.20'
+authors:
+  - maythe15
